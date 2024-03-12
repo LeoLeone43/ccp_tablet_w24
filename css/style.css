@@ -325,7 +325,7 @@ nav ul li {
   margin: 0.25rem;
 }
 
-#about section:nth-child(2) {
+/* #about section:nth-child(2) {
   position: relative;
 }
 #about section:nth-child(2) p:nth-of-type(2) {
@@ -363,7 +363,7 @@ nav ul li {
   opacity: 0.8;
   content: "";
   z-index: -1;
-}
+} */
 
 
 #guidelines h3 {
